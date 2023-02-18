@@ -1,0 +1,7 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\main.o"
+--strict --scatter ".\18.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\18.map" -o .\18.axf

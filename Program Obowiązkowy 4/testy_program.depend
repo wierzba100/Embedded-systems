@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1621384161 source:c:\users\filip\desktop\program obowi¹zkowy 4\main.c
+	<stdio.h>
+	"program_obowiazkowy_funkcje.h"
+
+1621384968 c:\users\filip\desktop\program obowi¹zkowy 4\program_obowiazkowy_funkcje.h
+
+1621384979 source:c:\users\filip\desktop\program obowi¹zkowy 4\program_obowiazkowy_funkcje.c
+	<stdio.h>
+	"program_obowiazkowy_funkcje.h"
+

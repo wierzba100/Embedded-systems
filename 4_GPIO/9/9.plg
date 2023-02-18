@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\filip\Desktop\Podstawy programowania systemów wbudowanych\4_GPIO\9\9.uvproj
+Project File Date:  04/09/2021
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+linking...
+Program Size: Code=808 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+".\9.axf" - 0 Errors, 0 Warning(s).
